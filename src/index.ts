@@ -23,9 +23,3 @@ initializeDatabaseConnection()
     .catch (error => {
         console.error("Failed to establish database connection", error);
     });
-
-// app.use("/user", userRoutes);
-
-// app.listen(PORT, () => {
-//     console.log(`Server started on http://localhost:${PORT}`);
-// })
