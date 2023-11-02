@@ -1,7 +1,3 @@
-# Awesome Project Build with TypeORM
+# User Management API
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+This repository contains a backend API for user management. It's built with TypeScript, using TypeORM for database interactions.
